@@ -10,6 +10,10 @@ h1 {
   color: white;
 }
 
+a {
+  color: aquamarine;
+}
+
 p {
   font-size: 21px;
   color: gray;
